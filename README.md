@@ -1,4 +1,4 @@
-# MicrocontrollersAndMore
+# MCU: MicroController Universe
 ##
 Have you ever wanted to build something that actually does stuff — like blink LEDs, read sensors, run motors, or even multitask like a mini-computer? That’s where microcontrollers come in. These tiny but powerful chips sit at the heart of modern electronics, quietly running code that interacts with the real world.
 
