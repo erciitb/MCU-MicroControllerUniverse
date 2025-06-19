@@ -1,12 +1,14 @@
 # MCU: MicroController Universe
-##
+## Phase 1 – Foundations Assemble
+![image](https://github.com/user-attachments/assets/8c5b4f46-6943-43f2-a23e-47e3369620a3)
+
 Have you ever wanted to build something that actually does stuff — like blink LEDs, read sensors, run motors, or even multitask like a mini-computer? That’s where microcontrollers come in. These tiny but powerful chips sit at the heart of modern electronics, quietly running code that interacts with the real world.
 
 From wearables and drones to smart homes and automation, microcontrollers are everywhere — and now, it's your turn to learn how to use them.
 
 But before you jump in, make sure you’ve covered the fundamentals of electronics — voltage, current, logic gates, memory, and more.  
 👉 Check out our first roadmap: [WattIsElectronics](https://github.com/Jadeninja-23a/WattIsElectronics) to get started with the basics.  
-nce you’re comfortable with the core concepts, this repo — **MicroCTRL** — will guide you through the exciting world of microcontrollers: hands-on, code-first, and beginner-friendly.
+nce you’re comfortable with the core concepts, this repo — **MCU: MicroController Universe** — will guide you through the exciting world of microcontrollers: hands-on, code-first, and beginner-friendly.
 
 Let’s go from circuits to code — and start building things that actually do.
 
