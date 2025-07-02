@@ -1,5 +1,5 @@
 # MCU: MicroController Universe
-*Author:**Videep Reddy Jalapally** | 2025*
+![image](./images/videepauth.svg)
 ## Phase 1 – Foundations Assemble
 ![image](https://github.com/user-attachments/assets/8c5b4f46-6943-43f2-a23e-47e3369620a3)
 
